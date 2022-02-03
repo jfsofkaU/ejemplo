@@ -1,0 +1,1232 @@
+h3 {
+    font-size: 108%;
+    font-weight: 400;
+}
+
+
+#page.container-fluid {
+  background-color: #f8eac7!important;
+}
+
+nav.nav.navbar-nav.hidden-md-down {
+  display: none;
+}
+
+.navbar-light {
+  background: white;
+}
+
+.navbar {
+  height: 60px;
+}
+
+.navbar-light .navbar-brand.has-logo {
+  display: inline-block;
+  width: 30%;
+}
+
+#page-course-index-category .generalbox.info {
+  text-align: center;
+}
+
+#page.container-fluid {
+  padding: 0 2rem;
+  padding-top: 1em!important;
+  background-color: #e3e3e3;
+}
+
+#nav-drawer {
+  padding-top: 2em;
+}
+
+.block-region .card-block {
+  border: 1px solid #367676;
+}
+
+.block-region .card-block .card-title {
+  background: #367676;
+  background: -webkit-linear-gradient(#409f99, #367676);
+  background: -o-linear-gradient(#409f99, #367676);
+  background: -moz-linear-gradient(#409f99, #367676);
+  background: linear-gradient(#409f99, #367676);
+  padding-top: 0.6em;
+  text-transform: none;
+  color: white;
+  border-bottom: 0px;
+}
+
+#page-wrapper::after {
+  background-color: #373a3c;
+}
+
+#region-main>.card{
+  border: 1px solid #367676;
+}
+a{
+  color: #00847b;
+}
+
+
+
+
+
+
+
+
+
+/*--- Estilos gráficos Laura Martin BB ---*/
+
+
+@font-face {
+font-family: 'Oswald-SemiBold';
+src: url('/express/design/fonts/Oswald-SemiBold.ttf') format('truetype');
+}
+
+body {
+  font-family: "Century Gothic", sans-serif;
+}
+
+.path-course-view .navbar a {
+  font-family: 'Oswald-SemiBold', sans-serif;
+}
+
+.path-course-view .navbar {
+  padding: 15px 10px 0px 10px;
+}
+
+.path-course-view .navbar a {
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+header .logo img {
+  margin-top: -0.6em;
+}
+
+.path-course-view nav#custom-menu {
+  display: none;
+}
+
+.card.card-block {
+  padding: 0 1.25rem 1.25rem 1.25rem;
+}
+
+.path-course-view .block-region .card-block {
+  border: 0px solid #367676;
+}
+
+#block-region-side-pre .block div.header {
+  margin: inherit;
+  padding: 8px;
+  position: relative;
+  background: transparent;
+  color: white;
+}
+
+#block-region-side-pre .block div.header:before {
+  display: none;
+}
+
+#block-region-side-pre .action-menu .dropdown a, .path-course-view #block-region-side-pre .action-menu .dropdown a i, .path-course-view #block-region-side-pre .action-menu .dropdown-toggle::after  {
+  color: white;
+}
+
+#page .page-header-headings h1 {
+  font-size: 150%;
+}
+
+.block-region .card-block .card-title {
+  font-weight: 500;
+}
+
+
+h3.hsuforum-discussion-count {
+  text-align: center;
+}
+
+
+ul.section.img-text li tr th img {
+  margin-top: -12px;
+}
+ul.section.img-text li {
+  margin-bottom: 0px;
+  margin-left: 50px;
+}
+
+h2{
+  color: black;
+  font-weight: 700;
+  text-align: center;
+}
+
+
+
+/*--- MEDIA ---*/
+
+@media (max-width: 1700px) {
+.navbar-light .navbar-brand.has-logo {
+  width: 50%!important;
+}
+}
+
+@media (max-width: 1275px) {
+.navbar-light .navbar-brand.has-logo {
+  width: 70%!important;
+}
+}
+
+
+
+
+
+.course-32 #page-content h3, .course-40 #page-content h3,  .course-52 #page-content h3 {
+  text-align: left;
+}
+
+
+.mform label.col-form-label.d-inline {
+  color: #A00;
+  font-weight: bold;
+}
+
+.mform .fdescription.required {
+  text-align: right;
+  font-weight: bold;
+  color: #A00;
+}
+
+.forumnodiscuss {
+  text-align: center;
+  font-weight: bold;
+}
+
+ ul.weeks li.section {
+  padding-top: 0rem;
+}
+
+.availabilityinfo.isrestricted.isfullinfo {
+  padding-left: 5em;
+}
+
+#page-mod-assign-grader a {
+  color: black;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+
+#page-mod-assign-grader button.btn.btn-primary, #page-mod-assign-grader button.btn.btn-secondary {
+  background-color: #3F9E9C!important;
+  color: white;
+  border: 1px solid;
+  border-radius: 0px;
+}
+
+#page-mod-assign-grader button.btn.btn-primary:hover, #page-mod-assign-grader button.btn.btn-secondary:hover {
+  background-color: #2B6B6A!important;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.6) inset!important;
+}
+
+#page  ul.weeks span a {
+  color: black;
+  text-decoration: none!important;
+  font-weight: 400;
+  float: left;
+  margin-left: 10%;
+}
+
+ h2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.course-52 #page-content h4{
+  text-align: center;
+  color: #996633;
+}
+
+.course-61 #page-content h4{
+  color: #996633;
+}
+
+.course-61 table.no-collapsable tbody tr td h3{
+  color: #367676!important;
+  text-align: left!important;
+}
+
+
+
+/*Category 8 = 161*/
+/* Modal */
+.ui-dialog {
+  background: rgba(0, 0, 0, 0.6);
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden;
+  position: fixed !important;
+  top: 0ox !important;
+  left: 0px !important;
+  bottom: 0px;
+  right: 0px;
+  z-index: 90;
+}
+.ui-dialog .ui-dialog-titlebar {
+  width: 1000px;
+  margin: 0px auto;
+  position: relative;
+}
+.ui-dialog .ui-dialog-titlebar .ui-dialog-titlebar-close {
+  position: absolute;
+  z-index: 95;
+  display: block;
+  font-weight: 700;
+  color: white;
+  background: black;
+  border-radius: 50px;
+  border: 2px solid white;
+  line-height: 1em;
+  font-size: 1em;
+  padding: 4px 6px;
+  right: -35px;
+  top: 22px;
+}
+.ui-dialog .ui-dialog-content {
+  width: 1000px !important;
+  border-radius: 8px;
+  background: white;
+  padding: 20px;
+  position: relative;
+  z-index: 91;
+  margin: 20px auto 0px auto;
+}
+h3 {
+color: #367676;
+border-bottom: 1px dashed #367676;
+line-height: 1em;
+font-size: 1.4em;
+margin: 1em 0em 0.2em 0em;
+padding: 0em 0em 0.3em 0em;
+text-align: left;
+}
+.content table.table_meto,
+.content table.table_eval,
+.content table.table_cron,
+.content table.table_obje {
+  display: none;
+}
+table.table_meto,
+table.table_eval,
+table.table_cron,
+table.table_obje {
+  width: 100%;
+  border: 0;
+}
+a.modal_meto,
+a.modal_eval,
+a.modal_cron,
+a.modal_obje {
+display: inline-block;
+cursor: pointer;
+}
+
+/*Tamaño Contenido*/
+
+div#page-content {
+  max-width: 1200px;
+  margin: auto;
+}
+
+/*Header*/
+
+div.p-a-1 {
+  padding: 0px 0px 0px 0px!important;
+}
+
+div#page {
+  padding: 0px!important;
+}
+div.card div.card-block div.w-100.pull-xs-left {
+  margin-left: 80px;
+}
+
+header.navbar.navbar-full {
+  border: none;
+  height: 110px;
+  position: static;
+}
+
+div#page.container-fluid {
+  margin-top: 0px;
+  padding-top: 0px!important;
+}
+
+header#page-header {
+  width: 95%;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+div.card div.card-block div.pull-xs-left {
+  margin-left: 210px;
+  margin-top: -116px;
+  height: 46px;
+  border-left: 1px solid #c8c8c8;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+div.card div.card-block div.w-100.pull-xs-left {
+  margin-left: 80px;
+  margin-top: -70px;
+  border-top: 1px solid #c8c8c8;
+  padding-top: 0px;
+  border-left: none;
+}
+
+
+.pull-xs-right.context-header-settings-menu {
+  position: relative;
+  z-index: 1;
+  margin-top: -60px;
+}
+#page-header .card {
+  border: none;
+  background: none;
+}
+.usermenu a, .page-header-headings {
+  color: #777;
+}
+
+
+/*Borde Bloques*/
+aside.block {
+  border: 1px solid #367575;
+}
+/*Flechas Breadcrum*/
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "▶";
+}
+/*Links*/
+#page a {
+  color: #0079bc;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 16px;
+  background: none;
+  border: none;
+}
+#page-content a:hover {
+  text-decoration: none;
+}
+
+#page .chapter-menu a {
+  color: black;
+}
+
+/*Listas Bloques*/
+
+ul.chapter-menu {
+  list-style: none;
+}
+#page .block_html .no-overflow td {
+  padding-bottom: 5px;
+}
+.card-block .chapter-menu li {
+
+  padding: 5px 10px;
+}
+
+ul.chapter-menu li:hover{
+  color: #367676;
+  background: #8ac2c1;
+  border-radius: 5px;
+
+}
+.no-overflow h4{
+  text-align: center;
+  font-weight: 400;
+  font-size: 100%;
+}
+/*Banner Ibague*/
+.card.card-block {
+  padding: 11px;
+}
+#maincontent {
+  height: 182px;
+  background-image: url(../images/banner-ibague.jpg);
+  margin: 0px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.region_main_settings_menu_proxy {
+  background-color: transparent;
+  position: absolute;
+}
+.block-region .card-block {
+  border: none;
+}
+#region-main-box .dropdown-toggle .icon {
+  color: white;
+}
+#block-region-side-pre .action-menu .dropdown a {
+  color: black;
+}
+
+.dropdown-toggle::after {
+  color: white;
+}
+
+#page .btn-secondary, .btn-default, .btn.btn-primary{
+  color: white;
+  background: linear-gradient(#409f99, #367676);
+  border: 1px solid #C9C9C9;
+}
+
+#page .btn-secondary:hover, #page .btn-default:hover,.btn.btn-primary:hover {
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.6) inset;
+}
+
+
+/*Tablas Colapsables*/
+ table.collapsable thead th {
+  cursor: pointer;
+  background: linear-gradient(#409f99, #367676);
+  display: block;
+  border-radius: 0;
+  color: white;
+  -webkit-font-smoothing: subpixel-antialiased;
+  border-bottom: 1px solid #367676;
+}
+ table.collapsable {
+  width: 100%;
+  float: none;
+}
+
+ table.collapsable thead {
+  border: 1px solid #367676;
+}
+table{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 1.1em;
+}
+
+ table.collapsable thead th h3 {
+   font-size: 108%;
+   margin-bottom: 0px;
+   padding: 0.5em 1em 0.5em 1em;
+}
+ h1 {
+  text-align: center;
+  color: #367676;
+  font-size: 3em;
+  line-height: 1.2em;
+}
+/* Iconos */
+.ico {
+position: relative;
+padding-left: 25px !important;
+}
+.ico::before {
+content: '';
+display: block;
+font-size: 0;
+line-height: 0;
+width: 21px;
+height: 21px;
+position: absolute;
+left: 0px;
+top: 0px;
+background-image: url('../icons/sprite-icons.png');
+background-repeat: no-repeat;
+background-color: transparent;
+}
+.ico.ico-rec::before {
+background-position:  -3px -2px;
+}
+.ico.ico-mod::before {
+background-position:  -32px -3px;
+}
+.ico.ico-her::before {
+background-position:  -65px -3px;
+}
+.ico.ico-fec::before {
+background-position:  -98px -3px;
+}
+.ico.ico-tem::before,
+.ico.ico-for::before {
+background-position:  -131px -3px;
+}
+.ico.ico-pro::before {
+background-position:  -2px -28px;
+}
+.ico.ico-act::before {
+background-position:  -31px -28px;
+}
+.boxaligncenter {
+overflow: hidden;
+overflow-x: scroll;
+}
+
+ table.collapsable thead th h3 {
+ background-image: url(/pluginfile.php/1/tool_themeassets/assets/0/multibrand/category-8/img/down-arrow.png);
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: 99% 50%;
+  background-size: 12px auto;
+}
+
+ tr td ul {
+  margin: 1em;
+}
+
+li.activity tbody tr td {
+  padding: 7px;
+}
+ ul.section li ol li {
+  list-style: decimal;
+}
+ h2, .page-content h2 {
+  text-align: center;
+  color: #409f99;
+  font-size: 2em;
+  line-height: 1.2em;
+}
+
+.activity tbody tr td ul li ul {
+  margin: 0px;
+}
+
+.content .section li.activity
+{
+  margin-left: 0px;
+  margin-bottom: 1em;
+  margin-left: 0px;
+  margin-bottom: 1em;
+}
+
+ table.collapsable tbody tr td h3 {
+  color: #367676;
+  border-bottom: 1px dashed #367676;
+  line-height: 1em;
+  font-size: 1.4em;
+  margin: 1em 0em 0.2em 0em;
+  padding: 0em 0em 0.3em 0em;
+}
+
+ table.collapsable tbody {
+  border: 1px solid #367676;
+  background: white;
+}
+ table.collapsable tbody tr td table {
+  width: 100%;
+  border: 0px;
+}
+ table.collapsable tbody tr td table tr:nth-child(even) {
+  background: rgba(54, 118, 118, 0.1);
+}
+
+ li.section li.activity ul {
+  margin: 0px;
+}
+
+
+.path-grade-report-grader .gradeparent {
+  position: relative;
+  overflow: scroll;
+}
+
+.path-grade-report-grader {
+  width: 77%;
+  min-width: auto;
+}
+
+.path-grade-report #maincontent+.urlselect {
+  position: relative;
+  left: 0px;
+  margin-bottom: 50px;
+}
+.path-grade-report-grader [data-region="blocks-column"] {
+   width: 250px;
+  clear:none;
+}
+
+ table.collapsable thead th h3 {
+  text-align: left !important;  
+}
+
+ table.collapsable.style1 thead th {
+  background: #193852;
+  background: -webkit-linear-gradient(#306C9F, #193852);
+  background: -o-linear-gradient(#306C9F, #193852);
+  background: -moz-linear-gradient(#306C9F, #193852);
+  background: linear-gradient(#306C9F, #193852);
+  border-bottom: 1px solid #193852;
+}
+
+#page a:hover{
+color: #3394c9;
+}
+#page ul.chapter-menu li:hover > a {
+  color: #367676;
+}
+
+body {
+  color: black;
+}
+
+.no-overflow tr td h4 {
+  text-align: left;
+  color: #367575;
+}
+.table_obje h4 {
+  text-align: center;
+  font-size: 100%;
+}
+
+ h2 {
+  text-align: center;
+  color: #409f99;
+  font-size: 2em;
+  line-height: 1.2em;
+}
+
+#intro.generalbox {
+  border: 1px solid #ddd;
+  width: 70%;
+  font-size: 1em;
+  margin: auto;
+  padding-left: 15px;
+}
+
+#region-main>.card{
+
+min-height:0px;
+}
+
+#page a.btn-default:hover {
+  box-shadow: none;
+}
+#page a.btn-default{
+  background: none;   
+  border:none;
+}
+
+#page-admin-course-manage .generalbox th, .editcourse .header, .results .header, #attempts .header, .generaltable .header, .plugincompattable th, .environmenttable th, .hsuforum_nested_header, .yui3-widget-bd th, .forumheaderlist th {
+  background: #f3f3f3;
+}
+
+.editcourse th, .editcourse td, .generaltable th, .generaltable td, #page-admin-course-manage .generalbox th, #page-admin-course-manage .generalbox td, #attempts th, #attempts td, .plugincompattable th, .plugincompattable td, .environmenttable th, .environmenttable td, .hsuforum_nested_header, #page-mod-forum-view .forumheaderlist td, .yui3-widget-bd th, .forumheaderlist th {
+  border: 1px solid #ddd;
+}
+
+.path-mod-forum th.header,.path-mod-forum .forumheaderlist thead .header.lastpost{
+  font-weight: bold;
+  text-align: center;
+}
+
+ul.nav.nav-tabs.m-b-1 {
+  text-align: center;
+}
+
+#page .nav-tabs .nav-item a.nav-link.active {
+  color: black;
+  font-weight: 900;
+  background: white;
+  
+}
+
+
+.nav-tabs .nav-item {
+  display: inline-block;
+  float: inherit;
+  padding-bottom: 1px;
+}
+
+.path-grade .grade-navigation .m-b-1 {
+  margin-bottom: 0px!important;
+}
+
+#page .nav-tabs .nav-item a.nav-link.active {
+  color: black;
+  font-weight: 900;
+}
+
+#page ul .nav-item a.nav-link.active {
+  border-bottom: none;
+}
+
+#page .grade-navigation ul:first-child .nav-item a.nav-link {
+  border: 2px solid #ddd;
+  border-bottom: none;
+}
+.path-grade .nav-tabs .nav-item+.nav-item {
+  margin-left: -5px;
+}
+.path-grade .nav-tabs {
+  border-bottom: 2px solid #ddd;
+}
+
+.path-grade #page .grade-navigation ul:first-child a {
+  background: #f7f7f7;
+}
+
+.path-grade h3 {
+  text-align: center;
+  margin: 30px;
+}
+div#gradetreesubmit {
+  text-align: center;
+}
+.fa-arrows-v:before {
+  content: "";
+}
+
+
+/*Wiki Tabs and table*/
+.path-mod-wiki #page .nav.nav-tabs li a {
+  margin: 0 2px;
+  padding: 8px 10px 5px;
+  background: #f7f7f7;
+  border-color: #ddd;
+  border-width: 2px 2px 0;
+  border-style: solid;
+  background-color: #f7f7f7;
+}
+
+.path-mod-wiki .nav.nav-tabs li {
+  margin-right: -11px;
+}
+
+.path-mod-wiki .generalbox.table {
+  border: 1px solid;
+  border-color: #ddd;
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 15px;
+  padding: 10px;
+  width: 14%;
+}
+.path-mod-wiki .table.generaltable {
+  border: 1px solid;
+  border-color: #ddd;
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 15px;
+  padding: 10px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.path-mod-wiki .table.generaltable {
+  text-align: center;
+}
+.path-mod-wiki .table.generaltable>thead>tr>th {
+  font-size: 16px;
+  text-align: center;
+  padding-bottom: 4px;
+  border: #DDD solid 1px;
+}
+
+.path-mod-wiki .generalbox.table>tbody>tr>td {
+  border: none;
+  font-size: 16px;
+}
+.path-mod-wiki .generalbox.table>thead>tr>th {
+  border: none;
+  font-size: 17px;
+}
+
+.path-mod-wiki .midpad,
+.path-mod-wiki .wiki_headingtitle {
+  text-align: center;
+}
+.path-mod-wiki .wiki_headingtitle {
+  padding-top: 3.5em;
+  padding-bottom: 5px;
+}
+.path-mod-wiki .wiki_headingtitle>h3 {
+  font-size: 130%;
+}
+.path-mod-wiki {
+  font-size: 15px
+}
+
+/*Imagen banner*/
+#page-content::before {
+  /*
+  content: '';
+  margin: auto;
+  position: relative;
+  top: -45px;
+  background-image: url(/pluginfile.php/1/tool_themeassets/assets/0/multibrand/category-8/img/banner-ibague.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding: 50%;
+  */
+}
+/*Footer*/
+#page-wrapper::after {
+  display: none;
+}
+#page-footer {
+  display: none;
+}
+
+
+
+/*--- Estilos gráficos Laura Martin BB ---*/
+
+
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h2 {
+  padding: 1em;
+}
+
+h2 {
+  color: #409f99;
+  padding: 1em;
+}
+
+#page-mod-assign-view .gradingsummary h3 {
+  font-size: 1.4rem;
+  text-align: center;
+  margin-top: 1em;
+}
+
+#page-mod-assign-view #page .btn-secondary:hover, #page-mod-assign-view #page .btn-default:hover, #page-mod-assign-view .btn.btn-primary:hover {
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.6) inset;
+  color: white;
+}
+
+#page-mod-assign-view #page .btn-secondary, #page-mod-assign-view .btn-default, #page-mod-assign-view .btn.btn-primary {
+  color: white!important;
+  background: linear-gradient(#409f99, #367676)!important;
+  border: 1px solid #C9C9C9!important;
+}
+
+
+div.card div.card-block div.w-100.pull-xs-left {
+  margin-left: 0px;
+  }
+
+  #page .page-header-headings h1 {
+  font-size: 131%;
+}
+
+#page-wrapper {
+  min-height: 100%;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.copy {
+  background: white;
+  border-top: 1px solid #c8c8c8;
+  clear: both;
+  color: #696969;
+  padding: 1em 0;
+}
+
+.copy p {
+  margin: 0;
+  padding: 0 0 3px 0;
+  text-align: center;
+}
+.pull-xs-right.context-header-settings-menu {
+
+  padding-left: 60px;
+}
+
+.path-mod-quiz #page .block-region a.qnbutton span {
+  color: #666;
+  border-radius: 0px;
+}
+.path-mod-quiz #page a.qnbutton {
+  color: #0078bc;
+}
+
+.collapsable th p {
+  text-align: center;
+  margin-bottom: 0px;
+}img.activityicon {
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+}
+
+ ul.topics,  ul.weeks, ul.weeks li.section{
+  border: 1px solid #DDD;
+}
+.content .section li.activity {
+  margin-bottom: 0px;
+  margin-left: 15px;
+}
+
+.dimmed_text {
+  opacity: 0.5;
+}
+
+#page  ul.weeks h3.sectionname span a {
+
+  margin-left: 0%;
+}
+
+#page  ul.weeks  h3.sectionname {
+  display: inline-block;
+}
+
+ ul.weeks li.section .summary {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.path-course-view .availabilityinfo .tag, .path-course-view .availabilityinfo {
+  font-size: .85em;
+  color: #aaa;
+  background: transparent;
+  padding-left: 0px;
+}
+
+.section .activity .availabilityinfo {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.path-course-view .availabilityinfo strong {
+  color: black;
+  font-weight: 500;
+}
+
+#page .collapsable ol li, #page .collapsable ul li, #page .collapsable ol {
+  margin-left: 15px;
+  padding: 0px;
+}
+
+ table.collapsable.style2 thead th {
+  background: linear-gradient(#51a3e2, #1f547b);
+  border-bottom: 1px solid #1f547b;
+}
+
+.summary .no-overflow td {
+  border: none;
+}
+
+
+
+div#region-main-box {
+  padding: 0;
+}
+
+body.path-mod-quiz{
+  font-size: 1.1em;
+}
+
+
+#page a.wiki_newentry {
+  color: red;
+}
+.section .activity a .instancename {
+  font-size: 17.3px;
+}
+
+
+
+table.collapsable {
+  margin-bottom: 1em;
+}
+
+.path-mod #intro .no-overflow {
+  font-size: 1.15em;
+}
+
+
+ table.collapsable thead th{
+  padding: 7px;
+}
+
+ table.collapsable thead th h3 {
+  padding: 0px;
+}
+
+body, table, td, th, li {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 14.4px;
+}
+
+.table_obje li, .table_meto li, table_eval li, table_cron li, .table_obje td, .table_meto td, table_eval td, table_cron td  {
+  font-size: 16px;
+}
+span {
+  line-height: 17.5px;
+}
+
+.path-mod #page-content li, .path-mod #page-content td, .path-mod #page-content li, .path-mod #page-content th{
+  font-size: 16px;
+}
+
+.label p {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+ .label table.collapsable tbody tr td h3 {
+  margin-top: 0px;
+}
+
+
+#page  ul.weeks h3.sectionname {
+  display: inline-block;
+  margin-top: 0.5em;
+}
+
+#page-mod-page-view ul {
+  padding-left: 2rem;
+}
+
+h2{
+  margin: 1em;
+}
+
+#page-mod-page-view .box.generalbox.center, #page-mod-folder-view .box.generalbox.foldertree{
+  padding: 1em;
+  border: 1px solid lightgray;
+  margin-top: 0.8em;
+}
+
+#page-mod-page-view .modified {
+  font-size: 0.8rem;
+  margin: 0.5em;
+}
+
+.course-85 .availabilityinfo.isrestricted.isfullinfo {
+  padding-left: 1em;
+}
+
+.course-85 li.activity.label.modtype_label h3 span {
+  font-size: 1.3rem;
+}
+.path-course  .summary p, .path-course .summary li {
+  font-size: 15.2px;
+  margin-bottom: 0px;
+}
+
+.activity .mod-indent-outer .activityinstance {
+  margin-left: 30px;
+}
+ table.collapsable thead th.act h3 {
+  background-image: url(/pluginfile.php/1/tool_themeassets/assets/0/multibrand/category-8/img/up-arrow.png);
+}
+li.section h3.sectionname {
+  font-size: 1.75em;
+}
+
+
+
+
+ .label table.collapsable tbody tr td h3 {
+  margin-top: 10px;
+}
+
+#page-mod-lesson-view #page .nav-tabs .nav-item a.nav-link.active, #page-mod-lesson-edit #page .nav-tabs .nav-item a.nav-link.active, #page-mod-lesson-report #page .nav-tabs .nav-item a.nav-link.active, #page-mod-lesson-essay #page .nav-tabs .nav-item a.nav-link.active{
+  border: 2px solid lightgray;
+  border-bottom: 0px;
+  border-radius: 0px;
+}
+
+
+#page-mod-lesson-view #page .nav-tabs .nav-item a.nav-link, #page-mod-lesson-edit #page .nav-tabs .nav-item a.nav-link, #page-mod-lesson-report #page .nav-tabs .nav-item a.nav-link, #page-mod-lesson-essay #page .nav-tabs .nav-item a.nav-link{
+  background-color: #efefef;
+}
+
+#page-mod-lesson-view #page .nav-tabs .nav-item a.nav-link.active, #page-mod-lesson-edit #page .nav-tabs .nav-item a.nav-link.active, #page-mod-lesson-report #page .nav-tabs .nav-item a.nav-link.active, #page-mod-lesson-essay #page .nav-tabs .nav-item a.nav-link.active {
+  background: white;
+}
+
+
+#page-mod-lesson-view .nav-tabs li.nav-item, #page-mod-lesson-edit .nav-tabs li.nav-item, #page-mod-lesson-report .nav-tabs li.nav-item, #page-mod-lesson-essay .nav-tabs li.nav-item{
+  padding-bottom: 0px;
+  border: 2px solid lightgrey;
+  border-bottom: 0px;
+}
+
+
+#page table.collapsable tbody tr td h3 {
+
+  margin: 1em 0em 0.2em 0em;
+
+} 
+.section .activity.modtype_label.label {
+  
+  margin: 0px;
+  padding: 0px;
+}
+
+.section .label .mod-indent-outer {
+  padding-left: 20px;
+
+}
+
+#page  ul.weeks .collapsable span a {
+  color: #0079bc;
+  display: contents;
+}
+
+hr {
+  border-top: 1px solid #9a9a9a;
+}
+
+.path-mod #page a, .path-mod p, #page .block strong a {
+  font-size: 16px;
+}
+#page .collapsable ul a, #page .collapsable p a, #page .collapsable li a {
+  font-size: 14.4px;
+}
+
+.OutlineElement.Ltr {
+  margin-bottom: 1.5em;
+}
+ul .OutlineElement.Ltr {
+  margin-bottom: 0em;
+}
+
+.no-overflow table {
+  margin-bottom: 1em;
+}
+
+
+.content .summary P, .content .summary h1, .content .summary h2, .content .summary h3, .content .summary h4, .content .summary h5, .content .summary h6 {
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+
+.course-78 .single-section .activity .mod-indent-outer .activityinstance {
+  margin-left: 5px;
+}
+/* Espaciado entre los titulos de las actividades*/
+.course-68 table.collapsable tbody tr td h3.ico.ico-act {
+  margin-top: 15px !important;
+}
+/* Espaciado en la fecha límite de entrega*/
+.course-68 table.collapsable tbody tr td ol {
+  margin-bottom: 15px;
+}
+
+table.collapsable tbody tr td ol {
+  margin-bottom: 15px;
+}
+
+#page .collapsable h3.ico a {
+  font-size: 20.1px;
+}
+
+.no-overflow {
+  overflow: auto;
+  overflow: hidden;
+  position: relative;
+}
